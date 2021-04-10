@@ -1,0 +1,35 @@
+# Project exclude paths
+/.gradle/
+/Tic-Tac-Toe/task/build/
+/Tic-Tac-Toe/task/out/
+/Tic-Tac-Toe/task/out/production/classes/
+/Topics/Branching statements/Bus tour/out/
+/Topics/Branching statements/Bus tour/out/production/classes/
+/Topics/Branching statements/Even or odd/out/
+/Topics/Branching statements/Even or odd/out/production/classes/
+/Topics/Branching statements/The (un)-ordered sequence/out/
+/Topics/Branching statements/The (un)-ordered sequence/out/production/classes/
+/Topics/Branching statements/The integer barrier/out/
+/Topics/Branching statements/The integer barrier/out/production/classes/
+/Topics/Integer types and operations/Squirrels and nuts/out/
+/Topics/Integer types and operations/Squirrels and nuts/out/production/classes/
+/Topics/Iterating over arrays/Boxes/out/
+/Topics/Iterating over arrays/Boxes/out/production/classes/
+/Topics/Iterating over arrays/Individual taxes/out/
+/Topics/Iterating over arrays/Individual taxes/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/
+/Topics/Multidimensional array/Fill the matrix by numbers/out/production/classes/
+/Topics/Multidimensional array/Rotate a rectangle array/out/
+/Topics/Multidimensional array/Rotate a rectangle array/out/production/classes/
+/Topics/Multidimensional array/Swap the columns/out/
+/Topics/Multidimensional array/Swap the columns/out/production/classes/
+/Topics/Switch statement/Floor-space of the room/out/
+/Topics/Switch statement/Floor-space of the room/out/production/classes/
+/Topics/The while and do-while loops/Squares of natural numbers/out/
+/Topics/The while and do-while loops/Squares of natural numbers/out/production/classes/
+/Topics/The while and do-while loops/The smallest value/out/
+/Topics/The while and do-while loops/The smallest value/out/production/classes/
+/Topics/The while and do-while loops/The sum of elements/out/
+/Topics/The while and do-while loops/The sum of elements/out/production/classes/
